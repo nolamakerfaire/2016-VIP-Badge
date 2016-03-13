@@ -1,5 +1,6 @@
 # 2016 VIP Badge
 ![Rendering](http://nolamakerfaire.com/wp-content/uploads/2016/02/rendering.png "VIP Badge")
+
 The 2016 New Orleans Mini Maker Faire VIP Badge features an integrated 3.3v 8Mhz Arduino Pro Mini derivative microcontroller and USB FTDI Programmer. The badges come pre-assembled, and feature breakout headers to access the digital and analog pins as well as ground and voltage. Any 3.3v-compatible components can be used with the badge. Additionally, battery packs will be included, but they badge can also be powered by a standard USB cellphone charging battery. Finally, the Arduino Pro Mini derivative and the USB programmer snap out of the badge so you can easily integrate them into future projects.
 
 ## License Information
