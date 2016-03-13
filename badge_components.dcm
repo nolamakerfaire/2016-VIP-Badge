@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP Resonator
-D Two pin crystal
-K Quartz, Resonator, Ceramic, Filter
-$ENDCMP
-#
-#End Doc Library
