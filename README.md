@@ -5,6 +5,8 @@ The 2016 New Orleans Mini Maker Faire VIP Badge features an integrated 3.3v 8Mhz
 
 The badge can be programmed just like a standard [Arduino Pro Mini](https://www.arduino.cc/en/Guide/ArduinoProMini). In the Arduino IDE, select Arduino Pro or Pro Mini (3.3V, 8 MHz) w/ ATmega328 from the Tools > Board menu. 
 
+[https://github.com/nolamakerfaire/2016-VIP-Badge/wiki](Check out our wiki) for some tips on using this board.
+
 Here's a great guide to getting started with the Arduino Pro Mini: [https://learn.sparkfun.com/tutorials/using-the-arduino-pro-mini-33v](https://learn.sparkfun.com/tutorials/using-the-arduino-pro-mini-33v)
 
 If snapped apart, you can solder pin headers onto the USB programmer and use it exactly like the [Sparkfun FTDI Basic Breakout Board](https://www.sparkfun.com/products/9873).
